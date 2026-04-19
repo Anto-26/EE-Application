@@ -1,0 +1,15 @@
+# Ignore datasets
+data/
+*.csv
+
+# Ignore caches
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore virtual environments
+venv/
+myenv/
+.env/
